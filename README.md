@@ -1,82 +1,48 @@
-````markdown
-<div align="center">
+# Hey there 👋
 
-# Hi, I'm Nguyen Ngoc Tung 👋
+I'm **Tung** — a backend-focused developer from Vietnam.
 
-### Java Backend Engineer
+## 👨‍💻 Some stuff about me
 
-I focus on building **secure, maintainable, and scalable backend systems**  
-with Java, Spring Boot, relational databases, and cloud-native technologies.
+- 🎓 I enjoy learning backend engineering and system design
+- 🔐 I'm interested in application security and authentication
+- 🚀 I like building and deploying services with Docker and Kubernetes
+- 🔎 I enjoy exploring new technologies and improving existing systems
 
-[![GitHub](https://img.shields.io/badge/GitHub-tungnn04-181717?style=flat-square&logo=github)](https://github.com/tungnn04)
+## 🛠️ Skills
 
-</div>
+**Languages:**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## About Me
+**Frameworks & Libraries:**
 
-- 💻 Backend-focused developer working primarily with **Java and Spring Boot**
-- 🔐 Interested in **authentication, authorization, application security, and API design**
-- 🏗️ Focused on writing clean, maintainable code and designing well-structured services
-- 🚀 Exploring containerized deployment and cloud-native systems with **Docker and Kubernetes**
-- 🌱 Continuously improving my knowledge of **system design, performance, and scalability**
-- 🎨 Familiar with frontend development using **React and TypeScript**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## What I Focus On
+**Databases & Storage:**
 
-```text
-Backend Development     RESTful APIs · Business Logic · Data Processing
-Application Security    Spring Security · JWT · OAuth 2.0 · OpenID Connect
-Data & Persistence      SQL · JPA/Hibernate · Caching
-Infrastructure          Docker · Kubernetes · Nginx
-Engineering Practices   Clean Code · Git · Testing · API Documentation
-````
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 
-## Tech Stack
+**Tools & Platforms:**
 
-### Backend
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Backend technologies" />
-</p>
+## 📫 Find me at
 
-### Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Database technologies" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" />
-</p>
-
-### Infrastructure & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,postman" alt="Infrastructure and development tools" />
-</p>
-
-### Frontend Familiarity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" alt="Frontend technologies" />
-</p>
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tungnn04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Tung's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungnn04&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Tung's most used languages" />
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-I'm always open to connecting with developers, sharing knowledge,
-and discussing backend engineering and software architecture.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge\&logo=github)](https://github.com/tungnn04)
-
-</div>
-```
+[![GitHub](https://img.shields.io/badge/GITHUB-tungnn04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tungnn04)
